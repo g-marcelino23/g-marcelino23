@@ -3,7 +3,7 @@
 ## Sobre mim
 
 - 👨🏻‍💻 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 📚 Estudando Análise e Desenvolvimento na Unichristus.
+- 📚 Estudando Sistemas de Ingformação na Unichristus.
 - 💼 Estagiando na aréa de análise de requisitos na SEPOG.
 
 
